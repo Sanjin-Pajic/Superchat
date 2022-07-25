@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 body {
   background-color: #282c34;
 }
@@ -80,6 +82,9 @@ input {
   outline: none;
   border: none;
   padding: 0 10px;
+}
+.superchat {
+  font-family: Pacifico;
 }
 
 button {
